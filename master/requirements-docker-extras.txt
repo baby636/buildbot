@@ -1,3 +1,4 @@
 requests==2.25.1
 psycopg2==2.8.6
 txrequests==0.9.6
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
