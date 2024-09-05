@@ -14,7 +14,7 @@
         "buildbot-build-common": "link:../build_common",
         "lodash": "^4.17.19",
         "rimraf": "^2.6.3",
-        "style-loader": "^0.23.1"
+        "style-loader": "^3.0.0"
     },
     "dependencies": {
         "ace-builds": "^1.4.4",
