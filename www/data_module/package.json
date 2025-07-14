@@ -14,7 +14,7 @@
   "devDependencies": {
     "angular-mocks": "^1.7.9",
     "buildbot-build-common": "link:../build_common",
-    "rimraf": "^2.6.3"
+    "rimraf": "^4.3.1"
   },
   "dependencies": {
     "angular": "^1.7.9"
